@@ -126,6 +126,7 @@ Web Tool | Description
 [D3.js](https://d3js.org) | JavaScript library for manipulating documents based on data.
 [GeeksforGeeks](https://www.geeksforgeeks.org/) | A Computer Science portal for geeks. It contains well written computer science and programming articles, tutorials and implementations for most of the concepts of Software Engineering field.
 [DB-engines](https://db-engines.com/) | Ranks database management systems by popularity. Ranking criteria include number of search engine results, Stack Overflow discussions etc.
+[TermsFeed](https://www.termsfeed.com/) | Generate Terms and conditions, Pivacy policy, Terms of use, Cookies policy etc. all for free.
 
 ## Desktop Tools 🖥
 
